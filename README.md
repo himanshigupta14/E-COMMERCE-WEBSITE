@@ -38,10 +38,9 @@ Welcome to the E-Commerce Website project! This platform provides a seamless onl
   - [Express.js](https://expressjs.com/)
 
 - **Database**:
-  - [MongoDB](https://www.mongodb.com/) (or your chosen database)
+  - SQL (e.g., MySQL, PostgreSQL, or SQLite)
 
-- **Payment Integration**:
-  - [Stripe](https://stripe.com/) (or your chosen payment gateway)
+
 
 ## Installation
 
