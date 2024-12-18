@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-![E-Commerce Website](./path_to_screenshot.png)
+![E-Commerce Website](ss.png)
 
 ## Table of Contents
 
