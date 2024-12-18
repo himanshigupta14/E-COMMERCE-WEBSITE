@@ -51,3 +51,29 @@ To set up the project locally, follow these steps:
    git clone https://github.com/himanshigupta14/E-COMMERCE-WEBSITE.git
    cd E-COMMERCE-WEBSITE
    ```
+
+## Usage
+
+- **Access the homepage** to browse products.  
+- **Register or log in** to your account.  
+- **Add products to the cart** and proceed to checkout.
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+1. **Fork the repository**.
+
+2. **Create a new branch**:
+   ```bash
+   git checkout -b feature/YourFeatureName
+    ```
+3. **Make your change and commit them**:
+   ```bash
+   git commit -m 'Add some feature'
+    ```
+4. **Push to the branch**
+    ```bash
+    git push origin feature/YourFeatureName
+    ```
+    
