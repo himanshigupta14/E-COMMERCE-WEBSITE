@@ -31,7 +31,7 @@ Welcome to the E-Commerce Website project! This platform provides a seamless onl
   - HTML5
   - CSS3
   - JavaScript (ES6+)
-  - [React.js](https://reactjs.org/) (or your chosen framework/library)
+  
 
 - **Backend**:
   - [Node.js](https://nodejs.org/)
@@ -51,3 +51,4 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/himanshigupta14/E-COMMERCE-WEBSITE.git
    cd E-COMMERCE-WEBSITE
+   ```
