@@ -33,9 +33,7 @@ Welcome to the E-Commerce Website project! This platform provides a seamless onl
   
 
 - **Backend**:
-  - [Node.js](https://nodejs.org/)
-  - [Express.js](https://expressjs.com/)
-
+  -Under development
 - **Database**:
   - SQL (e.g., MySQL, PostgreSQL, or SQLite)
 
